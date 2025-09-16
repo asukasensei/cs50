@@ -1,0 +1,9 @@
+people:{id : {name:Jack，birth:2001,movies},id ： }
+movies:{id : {title:bianfuxia,year:2016,stars:}}
+stars: {person_id:{movies:{movie_id}}}
+movies:{movie_id:{stars:{person_id}}}
+names:{name;{id}}
+movie_id{}
+neighboes{(movie_id,person_id)}
+
+person_id != target
